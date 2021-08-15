@@ -1,9 +1,5 @@
-/*
-Reference the Website: https://www.tutorialspoint.com/sas/sas_frequency_distributions.htm#:~:text=SAS%20provides%20a%20procedure%20called%20PROC%20FREQ%20to,dataset%20whose%20frequency%20distribution%20needs%20to%20be%20calculated.
-*/
 
-
-*Import House Data in Program - ALREADY IMPORTED;
+*Import House Data in Program;
 
 /* proc import file='/home/u59144967/My SAS files/modified house data.dta' */
 /* 	out=work.house */
